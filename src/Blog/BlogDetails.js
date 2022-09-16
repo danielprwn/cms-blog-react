@@ -10,8 +10,8 @@ const BlogDetails = () => {
 
   //Contenful API connection
   const client = createClient({
-    space: "bypzioyfiiik",
-    accessToken: "0oX6CBN8J6imolLlvvixUNYydgJMagwaudIzE5DENTM",
+    space: "YOUR SPACE ID",
+    accessToken: "YOUR API KEY",
   });
 
   useEffect(() => {
