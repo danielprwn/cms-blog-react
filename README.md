@@ -1,10 +1,8 @@
-# CMS React Contentful Blog Posts Website.
+# Content M<anagement System React Contentful Blog Posts Website.
 
-✔ Search movies.
-✔ Read more info about movies.
+✔ Add, edit and delete blog posts and images.
 
-
-## Technologies ✅ HTML ✅ CSS ⚛ React JS
+## Technologies ✅ HTML ✅ CSS ⚛ React JS 🖊 Contentful API.
 
 Download the repository and run it locally:
 
@@ -14,6 +12,8 @@ Download the repository and run it locally:
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+
+Signup https://www.contentful.com/ and create blog. You need space code ando API key code.
 
 Apllication screenshoots.
 
