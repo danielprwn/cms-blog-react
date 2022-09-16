@@ -13,7 +13,7 @@ Download the repository and run it locally:
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-Signup https://www.contentful.com/ and create blog. You need space code ando API key code.
+Signup https://www.contentful.com/ and create blog. You need space code and API key code to this project.
 
 Apllication screenshoots.
 
