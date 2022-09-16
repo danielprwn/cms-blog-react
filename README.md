@@ -1,4 +1,4 @@
-# Content M<anagement System React Contentful Blog Posts Website.
+# Content Management System React Contentful Blog Posts Website.
 
 ✔ Add, edit and delete blog posts and images.
 
